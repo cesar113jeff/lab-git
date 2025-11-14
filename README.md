@@ -1,1 +1,1 @@
-No se puede inicializar el dispositivo PRN
+Comentario desde GitHub
